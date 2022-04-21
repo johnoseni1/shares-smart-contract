@@ -1,6 +1,6 @@
 # Revenue Share Smart Contract
 
-This repository contains the smart contracts used to demonstrate revenue sharing with Web Monetization. The logic is based on the probabilistic revenue sharing example shown on the “webmonetization.org” [website](https://webmonetization.org/docs/probabilistic-rev-sharing).
+This repository contains the smart contracts used to demonstrate revenue sharing with Web Monetization. The logic is based on the probabilistic revenue sharing example shown on the “webmonetization.org”
 
 
 ## Smart Contracts
